@@ -1,0 +1,50 @@
+int x;
+int y_2=3;
+
+int
+
+
+        zyx
+
+
+;
+
+int y_x_2=x;
+int zyx, xy, wq;
+
+
+while(a<10)
+  b=1;
+
+while(a>10)
+{
+    b=1;
+    z=10;
+}
+
+
+while(x>23)
+{
+    x=1;
+    x=10;
+    x=t;
+}
+
+
+char o;
+
+while(x>23)
+{
+    x=1;
+    x=zyx + 1+50*90*x+z-y*u;
+    x=t;
+}
+
+if(x>2)
+    y=1+2;
+
+if(21==b){
+    x=1;
+    y=2+2-x;
+}
+
