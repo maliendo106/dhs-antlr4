@@ -5,11 +5,11 @@ from compiladorParser import compiladorParser
 #from main.python.miListener import miListener
 #from fechasLexer import fechasLexer
 #from fechasParser import fechasParser
-from miListener import miListener  # agregado
+from miListener import miListener # agregado
 
 
 def main(argv):
-    archivo = "../../entrada.txt"  # entrada.txt
+    archivo = "../../input.txt"  # entrada.txt 
     if len(argv) > 1:
         archivo = argv[1]
     input = FileStream(archivo)
