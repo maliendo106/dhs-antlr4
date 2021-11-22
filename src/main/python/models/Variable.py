@@ -1,4 +1,5 @@
-from ID import *
+from models.ID import *
+
 
 class Variable(ID):
-    pass 
+    pass

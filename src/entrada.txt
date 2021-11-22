@@ -43,8 +43,15 @@ while(x>23)
 if(x>2)
     y=1+2;
 
+if(mateo_esta_despierto)
+if(true)
+if(1)
+
 if(21==b){
     x=1;
     y=2+2-x;
 }
 
+falla () {
+
+}}
